@@ -29,3 +29,8 @@ Installation method
 [root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_apr.tar.gz && tar zxvf install_apr.tar.gz && cd install_apr && sh install_apr<br/>
 单小喏版Jenkins<br/>
 [root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_jenkins.tar.gz && tar zxvf install_jenkins.tar.gz && cd install_jenkins && sh install_jenkins<br/>
+单小喏版PHP<br/>
+单小喏版PHP5<br/>
+[root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/PHP/PHP5/install_php.tar.gz && tar zxvf install_php.tar.gz && cd install_php && sh install_php<br/>
+单小喏版PHP7<br/>
+[root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/PHP/PHP7/install_php.tar.gz && tar zxvf install_php.tar.gz && cd install_php && sh install_php<br/>
