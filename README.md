@@ -25,3 +25,5 @@ Installation method
 [root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_mysqlback.tar.gz && tar zxvf install_mysqlback.tar.gz && cd install_mysqlback && sh install_mysqlback<br/>
 单小喏版JAVA环境<br/>
 [root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_java.tar.gz && tar zxvf install_java.tar.gz && cd install_java && sh install_java<br/>
+单小喏版APR<br/>
+[root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_apr.tar.gz && tar zxvf install_apr.tar.gz && cd install_apr && sh install_apr<br/>
