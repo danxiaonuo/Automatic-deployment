@@ -27,3 +27,5 @@ Installation method
 [root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_java.tar.gz && tar zxvf install_java.tar.gz && cd install_java && sh install_java<br/>
 单小喏版APR<br/>
 [root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_apr.tar.gz && tar zxvf install_apr.tar.gz && cd install_apr && sh install_apr<br/>
+单小喏版Jenkins<br/>
+[root@danxiaonuo ~]# cd /tmp && wget -c https://raw.githubusercontent.com/danxiaonuo/Automatic-deployment/master/install_jenkins.tar.gz && tar zxvf install_jenkins.tar.gz && cd install_jenkins && sh install_jenkins<br/>
